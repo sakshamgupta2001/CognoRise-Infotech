@@ -16,3 +16,7 @@ The goal of this project is to analyze unemployment data to gain insights into v
 
 ### Second project - 80cereals analysis
 *This project involves analyzing a dataset of 80 different cereals to extract meaningful insights about their nutritional content and other characteristics. Using Python and various data analysis libraries, we explore the data to uncover trends, relationships, and interesting facts about the cereals. This repository contains the code, data, and results of the analysis.*
+
+### Third project - Bigmart sales data analysis
+*Welcome to the BigMart Sales Data Analysis Project! This repository contains a comprehensive analysis of the BigMart sales data using Python. The project aims to uncover valuable insights that can help improve sales strategies and optimize product placements in BigMart stores.
+The objective of this project is to analyze sales data from various BigMart stores to identify key factors that affect product sales. The analysis includes data preprocessing, exploratory data analysis (EDA), feature engineering, and building predictive models.*
