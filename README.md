@@ -1,3 +1,4 @@
-Welcome to the Unemployment Data Analysis project! This repository contains code and resources for analyzing unemployment data to uncover trends, insights, and patterns. The project aims to provide a comprehensive analysis of unemployment rates across different regions, time periods, and demographics.
-
+First project - Welcome to the Unemployment Data Analysis project! This repository contains code and resources for analyzing unemployment data to uncover trends, insights, and patterns. The project aims to provide a comprehensive analysis of unemployment rates across different regions, time periods, and demographics.
 The goal of this project is to analyze unemployment data to gain insights into various factors influencing unemployment rates. By examining data from different sources, we aim to understand how unemployment rates vary by region, time, and demographic factors.
+
+Second project - This project involves analyzing a dataset of 80 different cereals to extract meaningful insights about their nutritional content and other characteristics. Using Python and various data analysis libraries, we explore the data to uncover trends, relationships, and interesting facts about the cereals. This repository contains the code, data, and results of the analysis.
